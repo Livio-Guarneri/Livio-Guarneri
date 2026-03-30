@@ -1,5 +1,7 @@
+#👋 Bonjour, je suis Livio Guarneri
+
 # 💫 About Me:
-Je suis Livio, développeur web junior basé en Belgique.<br>Passionné par la création de sites modernes.<br>Je développe des sites vitrines professionnels pour mettre en valeur les activité locales.<br>Mon objectif est de rendre votre activité plus visible et plus crédible en ligne.
+Je suis développeur web junior basé en Belgique.<br>Passionné par la création de sites modernes.<br>Je développe des sites vitrines professionnels pour mettre en valeur les activité locales.<br>Mon objectif est de rendre votre activité plus visible et plus crédible en ligne.
 
 
 ## 🌐 Socials:
